@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab_4_2Act4</string>
+    <string name="action_settings">Settings</string>
+    <string name="pantalla2">pantalla2</string>
+    <string name="Boton1">Boton1</string>
+    <string name="Boton2">Boton2</string>
+    <string name="Boton3">Boton3</string>
+    <string name="Boton4">Boton4</string>
+    <string name="Boton5">Boton5</string>
+    <string name="Boton6">Boton6</string>
+    <string name="Boton7">Boton7</string>
+    <string name="Boton8">Boton8</string>
+    <string name="Boton9">Boton9</string>
+    <string name="Boton10">Boton10</string>
+    <string name="mail">jdcasasmoviles@gmail.com</string>
+    <string name="subject">AsuntoPrueba</string>
+    <string name="envio">MuyBuenas</string>
+    <string name="text">Comparte mi mensaje</string>
+</resources>
